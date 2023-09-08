@@ -1,0 +1,5 @@
+*.xcworkspacedata
+QuizCrafter.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+*.xcuserstate
+*.xcworkspacedata
+.DS_Store
